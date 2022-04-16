@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+h1 {
+    display: block;
+    height: 100px;
+    font-size: 16px;
+    color: orange;
+    font-weight: bold;
+}
